@@ -1,0 +1,14 @@
+{
+    "name": "remcotolsma/wp-cli-i18n-make-pot-issue-php-8",
+    "autoload": {
+        "psr-4": {
+            "RemcoTolsma\\WpCliI18nMakePotIssuePhp8\\": "src/"
+        }
+    },
+    "require" : {
+        "wp-cli/wp-cli-bundle": "*"
+    },
+    "scripts": {
+        "make-pot": "wp i18n make-pot . --slug=wp-cli-i18n-make-pot-issue-php-8"
+    }
+}
