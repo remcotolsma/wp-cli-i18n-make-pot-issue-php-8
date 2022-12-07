@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2022-12-07T10:30:03+00:00\n"
+"POT-Creation-Date: 2022-12-07T10:31:19+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.7.1\n"
 "X-Domain: my-basics-plugin\n"
@@ -32,12 +32,4 @@ msgstr ""
 
 #. Author URI of the plugin
 msgid "https://author.example.com/"
-msgstr ""
-
-#: plugin.php:18
-msgid "plugin.php"
-msgstr ""
-
-#: src/Plugin.php:7
-msgid "src/Plugin.php"
 msgstr ""
